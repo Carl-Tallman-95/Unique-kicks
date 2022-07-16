@@ -65,6 +65,5 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background-image: url(../images/adidasxmeissen-zx8000-porcelain-5-rgb.jpg);
-    object-fit: contain;
+    background: url(../images/adidasxmeissen-zx8000-porcelain-5-rgb.jpg) no-repeat center center;
 }
