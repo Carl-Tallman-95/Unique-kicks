@@ -89,21 +89,21 @@ h1, h2 {
 /*  */
 
 .block-how {
-    background: #f4a836;
+    background: #202020;
     margin: 5rem;
-    padding: 80px;
+    padding: 40px 60px 40px 20px;
     margin-right: 35%;
     margin-left: 50px;
 }
 
 .block-how h3 {
-    color: #f44336;
+    color: #fff;
     outline: 3px solid #f44336;
 
 }
 
 .block-how p {
-    color: #f44336;
+    color: #fff;
     outline: 3px solid #f44336;
 }
 
@@ -135,4 +135,49 @@ hr {
 
 }
 
+/* gallery main page */
+
+#gallery-section {
+    background: #f8594e;
+}
+
+.wrapper {
+    display: grid;
+    place-items: center;
+    height: 40vh;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    padding: 0 20px 20px;
+}
+
+.box img {
+    outline: 10px solid rgb(255, 255, 255);
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.box a {
+    outline: 10px solid rgb(255, 255, 255);
+    width: 100%;
+    height: 150px;
+    padding: 50px;
+    object-fit: cover;
+}
+
 /*  */
+
+/* footer-section */
+
+#footer-section {
+    background: #202020;
+}
