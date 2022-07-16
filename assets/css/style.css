@@ -117,11 +117,22 @@ h1, h2 {
     padding-top: 30px;
     width: 25%;
     float: right;
-    background: blue;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+
 }
 
 .right-about-heading {
-    
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+
 }
 
 /*  */
