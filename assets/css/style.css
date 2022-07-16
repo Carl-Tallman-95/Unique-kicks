@@ -24,6 +24,7 @@ h1, h2 {
 
 #logo {
     float: left;
+    padding-left: 35px;
     max-width: 100%;
     height: auto;
 }
@@ -42,6 +43,7 @@ h1, h2 {
     float: right;
     list-style-type: none;
     margin-right: 30px;
+    color: #fff;
 }
 #menu a {
     text-decoration: none;
@@ -56,7 +58,7 @@ h1, h2 {
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fff;
 }
 
 
@@ -66,8 +68,9 @@ h1, h2 {
     height: 600px;
     width: 100%;
     background: url(../images/adidasxmeissen-zx8000-porcelain-5-rgb.jpg) no-repeat center center / cover;
-    
 }
+
+/* text-box */
 
 .text-box {
     width: 90%;
@@ -81,6 +84,21 @@ h1, h2 {
 
 .text-box h1 {
     color: #fff;
+}
+
+/*  */
+
+.block-how {
+    background: #f4a836;
+    margin: 6rem;
+    padding: 80px;
+}
+
+.block-how h3 {
+    color: #f44336;
+    outline: 3px solid #f44336;
+    float: left;
+
 }
 
 /*  */
