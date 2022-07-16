@@ -36,7 +36,7 @@ h1, h2 {
     letter-spacing: 4px;
 }
 #menu, #logo {
-    line-height: 75px;
+    line-height: 250px;
 }
 #menu li {
     float: right;
@@ -65,5 +65,8 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../images/adidasxmeissen-zx8000-porcelain-5-rgb.jpg) no-repeat center center;
+    background: url(../images/adidasxmeissen-zx8000-porcelain-5-rgb.jpg) no-repeat center center / cover;
+    
 }
+
+/*  */
