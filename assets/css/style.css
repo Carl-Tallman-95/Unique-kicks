@@ -90,15 +90,38 @@ h1, h2 {
 
 .block-how {
     background: #f4a836;
-    margin: 6rem;
+    margin: 5rem;
     padding: 80px;
+    margin-right: 35%;
+    margin-left: 50px;
 }
 
 .block-how h3 {
     color: #f44336;
     outline: 3px solid #f44336;
-    float: left;
 
+}
+
+.block-how p {
+    color: #f44336;
+    outline: 3px solid #f44336;
+}
+
+/* how to middle section */
+
+#how-to {
+    height: 600px;
+}
+
+#right-about{
+    padding-top: 30px;
+    width: 25%;
+    float: right;
+    background: blue;
+}
+
+.right-about-heading {
+    
 }
 
 /*  */
