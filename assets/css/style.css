@@ -178,3 +178,39 @@ hr {
 
 /* footer-section */
 
+footer {
+    position: absolute;
+    background: #202020;
+    height: auto;
+    width: 100vw;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 30px;
+    color: #fff;
+}
+
+.footer-section-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer-section-content h3 {
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 3rem;
+}
+
+.footer-section-content p {
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+}
+
+
+
+
+/*  */
