@@ -157,6 +157,47 @@ hr {
     flex-wrap: wrap;
 }
 
+.how-work-steps .send-request-design {
+    background: ;
+    margin: 25px;
+    margin-bottom: 50px;
+    width: 200px;
+    padding: 20px;
+    line-height: 20px;
+    color: #fff;
+    outline: 3px solid #fdb644;
+    border-radius: 10%;
+    position: relative;
+}
+
+.how-work-steps .send-request-design h3 {
+    color: #111;
+    font-size: 26px;
+    margin-top: 50px;
+}
+
+.how-work-steps .send-request-design p {
+    color: #111;
+    font-size: 16px;
+}
+
+.how-work-steps .send-request-design .steps-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: -95px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.how-work-steps .send-request-design .steps-img img {
+    width: 150px;
+    height: 150px;
+    background: #fff;
+    border-radius: 50%;
+}
+
 /* How to section */
 
 /* gallery main page */
