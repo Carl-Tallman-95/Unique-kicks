@@ -137,6 +137,26 @@ hr {
 
 /* How to section */
 
+.how-work-wrapper {
+    margin-top: 10%;
+    background: #fff;
+}
+
+.how-work-wrapper h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 52px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.how-work-steps {
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 /* How to section */
 
 /* gallery main page */
