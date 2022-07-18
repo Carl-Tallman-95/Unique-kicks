@@ -151,7 +151,14 @@ hr {
 .how-work-wrapper h1 {
     font-family: 'Bebas Neue', cursive;
     font-size: 52px;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.how-work-wrapper p {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 15px;
+    margin-bottom: 80px;
     text-align: center;
 }
 
@@ -205,45 +212,6 @@ hr {
 }
 
 /* How to section */
-
-/* gallery main page */
-
-#gallery-section {
-    background: #f8594e;
-}
-
-.wrapper {
-    display: grid;
-    place-items: center;
-    height: 40vh;
-}
-
-.gallery {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-
-.box {
-    padding: 0 20px 20px;
-}
-
-.box img {
-    outline: 10px solid rgb(255, 255, 255);
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
-}
-
-.box a {
-    outline: 10px solid rgb(255, 255, 255);
-    width: 100%;
-    height: 150px;
-    padding: 50px;
-    object-fit: cover;
-}
 
 /*  */
 
