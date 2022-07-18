@@ -65,9 +65,10 @@ h1, h2 {
 /* hero image */
 
 #hero-image {
-    height: 600px;
+    height: 480px;
     width: 100%;
     background: url(../images/stock-photo-painted-floral-canvas-shoes-512963239.jpg) no-repeat center center / cover;
+
 }
 
 /* text-box */
