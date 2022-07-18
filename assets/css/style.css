@@ -249,7 +249,12 @@ hr {
 
 /* check out our gallery */
 
+#check-gallery {
+    background: #f8594e;
+}
+
 .mini-gallery-h3 {
+    color: #fff;
     margin-top: 30px;
     display: flex;
     align-items: center;
@@ -264,6 +269,18 @@ hr {
     grid-gap: 5px;
     margin-bottom: 60px;
 }
+
+.gallery-wrapper img {
+    width: 100%;
+    border-radius: 10px;
+    border: 5px solid #fff;
+}
+
+.gallery-images-box {
+    padding: 10px;
+}
+
+
 
 /* check out our gallery */
 
