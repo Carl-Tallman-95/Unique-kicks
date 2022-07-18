@@ -67,7 +67,7 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../images/adidasxmeissen-zx8000-porcelain-5-rgb.jpg) no-repeat center center / cover;
+    background: url(../images/stock-photo-painted-floral-canvas-shoes-512963239.jpg) no-repeat center center / cover;
 }
 
 /* text-box */
@@ -84,6 +84,11 @@ h1, h2 {
 
 .text-box h1 {
     color: #fff;
+    font-size: 62px;
+}
+
+.text-box p {
+    font-family: 'Bebas Neue', cursive;
 }
 
 /*  */
