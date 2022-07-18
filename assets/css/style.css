@@ -249,6 +249,15 @@ hr {
 
 /* check out our gallery */
 
+.mini-gallery-h3 {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
 /* check out our gallery */
 
 /* footer-section */
