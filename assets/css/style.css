@@ -252,6 +252,55 @@ hr {
 
 /* check out our gallery */
 
+/* about us */
+
+#about-us {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8594e;
+}
+
+.about-section {
+    background-size: 55%;
+    background-color: #fff;
+    overflow: hidden;
+    padding: 100px 0;
+}
+
+.inner-container {
+    width: 55%;
+    float: right;
+    background-color: #f8594e;
+    padding: 150px;
+}
+
+.inner-container h1 {
+    color: #fff;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.about-text {
+    font-size: 13px;
+    color: #fff;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+
+.about-skills {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    font-size: 13px;
+}
+
+/* about us */
+
 /* footer-section */
 
 footer {
