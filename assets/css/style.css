@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@600&family=Roboto:wght@300;400;700&display=swap');
 
 * {
     margin: 0;
@@ -51,7 +51,7 @@ nav img {
     font-family: 'Bebas Neue', cursive;
     color: #fff;
     text-decoration: none;
-    font-size: 110%;
+    font-size: 120%;
     letter-spacing: 5px;
 }
 
@@ -80,11 +80,15 @@ nav img {
 }
 
 .text-box h1 {
+    font-family: 'Oswald', sans-serif;
     font-size: 62px;
+    letter-spacing: -1px;
 }
 
 .text-box p {
     font-family: 'Bebas Neue', cursive;
+    margin: 12px 12px 12px 0px;
+    letter-spacing: 1px;
 }
 
 .hero-btn {
@@ -159,7 +163,7 @@ hr {
 /* How to section */
 
 .how-work-wrapper {
-    margin-top: 10%;
+    margin-top: 5%;
     background: #fff;
 }
 
@@ -173,7 +177,7 @@ hr {
 .how-work-wrapper p {
     font-family: 'Bebas Neue', cursive;
     font-size: 15px;
-    margin-bottom: 80px;
+    margin-bottom: 50px;
     text-align: center;
 }
 
@@ -237,6 +241,8 @@ hr {
 }
 
 .mini-gallery-h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
     color: #fff;
     margin-top: 30px;
     display: flex;
@@ -250,7 +256,7 @@ hr {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     grid-gap: 5px;
-    margin-bottom: 60px;
+    margin-bottom: 0;
 }
 
 .gallery-wrapper img {
@@ -270,25 +276,26 @@ hr {
 /* about us */
 
 #about-us {
-    min-height: 100vh;
+    min-height: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #f8594e;
+    background-color: #fff;
 }
 
 .about-section {
-    background-size: 55%;
+    background: linear-gradient(rgba(4,9,30,0.2), rgba(4,9,30,0.2)), url(../images/markus-spiske-cn0-hgcpoL8-unsplash_3.png) no-repeat left;
+    background-size: cover;
     background-color: #fff;
     overflow: hidden;
-    padding: 100px 0;
+    padding: 80px 0;
 }
 
 .inner-container {
     width: 55%;
     float: right;
     background-color: #f8594e;
-    padding: 150px;
+    padding: 100px;
 }
 
 .inner-container h1 {
