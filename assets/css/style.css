@@ -167,17 +167,21 @@ hr {
     background: #fff;
 }
 
+.how-work-top-text {
+    margin-bottom: 60px;
+}
+
 .how-work-wrapper h1 {
     font-family: 'Bebas Neue', cursive;
     font-size: 52px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
 .how-work-wrapper p {
     font-family: 'Bebas Neue', cursive;
     font-size: 15px;
-    margin-bottom: 50px;
+    margin-bottom: 5px;
     text-align: center;
 }
 
@@ -192,7 +196,7 @@ hr {
 .how-work-steps .send-request-design {
     background: ;
     margin: 25px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     width: 200px;
     padding: 20px;
     line-height: 20px;
@@ -212,6 +216,12 @@ hr {
     color: #111;
     font-size: 16px;
 }
+
+.how-work-steps .send-request-design i {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
 
 .how-work-steps .send-request-design .steps-img {
     width: 200px;
@@ -250,6 +260,25 @@ hr {
     justify-content: center;
     flex-direction: column;
     text-align: center;
+}
+
+.gallery-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid ;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.gallery-btn:hover {
+    color: #f8594e;
+    border: 1px solid #fff;
+    background: #fff;
+    transition: 0.5s;
 }
 
 .gallery-wrapper {
