@@ -449,4 +449,11 @@ footer {
 
 #photos > img {
     width: 100%;
+    transition: 1s;
+
+}
+
+#photos > img:hover {
+    transform: scale(1.2);
+    z-index: 2;
 }
