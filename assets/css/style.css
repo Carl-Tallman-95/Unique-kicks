@@ -429,3 +429,24 @@ footer {
 
 
 /*  */
+
+/* gallery */
+
+#gallery-page {
+    background: #f8594e;
+    padding-top: 5%;
+    padding-bottom: 8%;
+}
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+    background: #fff;
+    border: 50px solid #fff;
+}
+
+#photos > img {
+    width: 100%;
+}
