@@ -316,6 +316,8 @@ hr {
     background: linear-gradient(rgba(4,9,30,0.2), rgba(4,9,30,0.2)), url(../images/markus-spiske-cn0-hgcpoL8-unsplash_3.png) no-repeat left;
     background-size: cover;
     background-color: #fff;
+    display: flex;
+    justify-content: center;
     overflow: hidden;
     padding: 80px 0;
 }
@@ -414,7 +416,7 @@ footer {
 
 .footer-section-bottom {
     background: rgb(0, 0, 0);
-    width: 100vw;
+    width: 100%;
     padding: 15px 0;
     text-align: center;
 }
@@ -459,33 +461,37 @@ footer {
 /* contact page */
 
 .contact-bg {
-    background: transparent;
-    margin: 90px;
+    background: #f8594e;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
     position: relative;
-    border: 1px solid #111;
     
 }
 
 .contact-container {
-    width: 60%;
-    margin: 25px auto;
-    background: #f8594e;
+    width: 70%;
+    margin: 50px;
+    background: #111;
     border: 3px solid #111;
 }
 
 .contact-container h1 {
-
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    letter-spacing: 2px;
     margin: 30px;
 }
 
 .contact-container p {
+    color: #fff;
     margin: 30px;
 }
 
 .contact-content {
+    color: #fff;
     padding: 40px;
 }
-
 
 
 
