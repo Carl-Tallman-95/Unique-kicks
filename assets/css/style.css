@@ -120,6 +120,47 @@ nav img {
 
 /* headings and logo 2 */
 
+/* how does it work retry */
+
+.how-does-work-bg {
+    background-color: green;
+    width: 100%;
+    height: 600px;
+}
+
+.how-does-work-container {
+    background-color: aqua;
+    width: 100%;
+    height: 500px;
+}
+
+.how-does-work-h2-and-boxes {
+    border: 2px solid yellow;
+}
+.how-does-work-h2-and-boxes h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 52px;
+    text-align: center;
+}
+
+.how-does-work-boxes {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+
+.box-steps {
+    width: 200px;
+    text-align: center;
+    outline: 4px solid #777;
+}
+
+/* how does it work retry */
+
+
 /* how to */
 
 .block-how {
