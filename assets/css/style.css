@@ -115,6 +115,9 @@ nav img {
     .text-box {
         margin-top: 25px;
     }
+    .text-box h1 {
+        font-size: 25px;
+    }
 }
 
 
@@ -123,9 +126,9 @@ nav img {
 /* how does it work retry */
 
 .how-does-work-bg {
-    background-color: green;
+    background-color: #fff;
     width: 100%;
-    height: 600px;
+    height: 450px;
 }
 
 .how-does-work-container {
@@ -135,7 +138,7 @@ nav img {
 }
 
 .how-does-work-h2-and-boxes {
-    border: 2px solid yellow;
+    padding: 5px;
 }
 .how-does-work-h2-and-boxes h2 {
     font-family: 'Bebas Neue', cursive;;
@@ -164,144 +167,26 @@ nav img {
 .box-steps {
     width: 95px;
     text-align: center;
-    outline: 4px solid #777;
+    outline: 4px solid #202020;
     border-radius: 10%;
     padding: 35px;
     margin: 20px;
 }
 
+/* how does it work medium screen sizes from 650px wide and down */
+
+@media screen and (max-width: 650px){
+    .how-does-work-boxes {
+        width: 200px;
+        height: auto;
+    }
+}
+
+
 /* how does it work retry */
 
 
-/* how to */
 
-.block-how {
-    background: #202020;
-    margin: 5rem;
-    padding: 40px 60px 40px 20px;
-    margin-right: 35%;
-    margin-left: 50px;
-}
-
-.block-how h3 {
-    color: #fff;
-    outline: 3px solid #f44336;
-
-}
-
-.block-how p {
-    color: #fff;
-    outline: 3px solid #f44336;
-}
-
-/* how to middle section */
-
-#how-to {
-    height: 600px;
-}
-
-#right-about{
-    padding-top: 30px;
-    width: 25%;
-    float: right;
-}
-
-hr {
-    border-top: 1px solid #3a3a3a;
-    width: 100%;
-    margin: 5px 0;
-
-}
-
-.right-about-heading {
-    width: 60%;
-    float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-
-}
-
-/* How to section */
-
-.how-work-wrapper {
-    margin-top: 5%;
-    background: #fff;
-}
-
-.how-work-top-text {
-    margin-bottom: 60px;
-}
-
-.how-work-wrapper h1 {
-    font-family: 'Bebas Neue', cursive;
-    font-size: 52px;
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.how-work-wrapper p {
-    font-family: 'Bebas Neue', cursive;
-    font-size: 15px;
-    margin-bottom: 5px;
-    text-align: center;
-}
-
-.how-work-steps {
-    display: flex;
-    text-align: center;
-    width: auto;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.how-work-steps .send-request-design {
-    margin: 25px;
-    margin-bottom: 40px;
-    width: 200px;
-    padding: 20px;
-    line-height: 20px;
-    color: #fff;
-    outline: 3px solid #fdb644;
-    border-radius: 10%;
-    position: relative;
-}
-
-.how-work-steps .send-request-design h3 {
-    color: #111;
-    font-size: 26px;
-    margin-top: 50px;
-}
-
-.how-work-steps .send-request-design p {
-    color: #111;
-    font-size: 16px;
-}
-
-.how-work-steps .send-request-design i {
-    margin-top: 20px;
-    font-size: 30px;
-}
-
-
-.how-work-steps .send-request-design .steps-img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    position: absolute;
-    top: -95px;
-    left: 50%;
-    transform: translateX(-50%);
-}
-
-.how-work-steps .send-request-design .steps-img img {
-    width: 150px;
-    height: 150px;
-    background: #fff;
-    border-radius: 50%;
-}
-
-/* How to section */
 
 /*  */
 
@@ -348,6 +233,7 @@ hr {
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     grid-gap: 5px;
     margin-bottom: 0;
+    padding: 25px;
 }
 
 .gallery-wrapper img {
@@ -381,12 +267,11 @@ hr {
     display: flex;
     justify-content: center;
     overflow: hidden;
-    padding: 80px 0;
+    padding: 30px 0;
 }
 
 .inner-container {
-    width: 55%;
-    float: left;
+    width: 50%;
     background-color: #f8594e;
     padding: 45px;
 }
@@ -421,22 +306,18 @@ footer {
     position: absolute;
     background: #202020;
     height: auto;
-    width: 100vw;
+    width: 100%;
     font-family: 'Roboto', sans-serif;
     padding-top: 30px;
     color: #fff;
 }
 
 .footer-section-content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
     text-align: center;
 }
 
 .footer-section-content h3 {
-    font-size: 1.8rem;
+    font-size: 24px;
     font-weight: 400;
     text-transform: capitalize;
     line-height: 3rem;
@@ -455,7 +336,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 1rem 0 3rem 0;
+    margin: 10px;
 }
 
 .social-networks li {
@@ -567,7 +448,7 @@ footer {
     color: #fff;
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
-    background-color: #fdb644;
+    background-color: #f44336;
     margin: 10px;
     padding: 10px;
 }
