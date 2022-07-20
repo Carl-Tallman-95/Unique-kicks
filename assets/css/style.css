@@ -18,7 +18,7 @@ body {
 .header {
     min-height: 60vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.3), rgba(4,9,30,0.3)), url(../images/stock-photo-painted-floral-canvas-shoes-512963239.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.3), rgba(4,9,30,0.3)), url(../images/shutterstock_512963239.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -117,6 +117,14 @@ nav img {
     }
     .text-box h1 {
         font-size: 25px;
+    }
+}
+/* Landing page image medium screen sizes from 450px wide and down */
+
+@media screen and (max-width: 450px){
+
+    .header {
+        min-width: 50vh;
     }
 }
 
@@ -449,9 +457,12 @@ footer {
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
     background-color: #f44336;
+    border: 1px solid #fff;
     margin: 10px;
     padding: 10px;
+    transition: 0.5s;
 }
+
 
 
 
