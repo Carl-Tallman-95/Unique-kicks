@@ -482,9 +482,9 @@ footer {
 }
 
 
-/* about medium screen sizes from 650px wide and down */
+/* about medium screen sizes from 900px wide and down */
 
-@media screen and (max-width: 750px){
+@media screen and (max-width: 900px){
 
 .your-description textarea {
     width: 90%;
