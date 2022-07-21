@@ -167,7 +167,6 @@ nav img {
     display: flex;
     justify-content: center;
     text-align: center;
-    align-items: center;
     flex-wrap: wrap;
 }
 
@@ -443,6 +442,12 @@ footer {
     color: #fff;
     padding: 40px;
 }
+
+.contact-content h2 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+}
+
 
 .contact-send-request {
     font-family: 'Roboto', sans-serif;
