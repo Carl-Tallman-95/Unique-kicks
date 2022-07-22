@@ -58,7 +58,12 @@ The site is designed to be compatible with sevral different screen sizes and is 
     - The "HERE"button is linked to the full gallery page which is also accessible by the navigation bar.
     - The images featured are relevant and clearly show the user what kind of product they can expect from the service.
 
-(<img src="assets/images/readme_images/check out our gallery.png">
+<img src="assets/images/readme_images/check out our gallery.png">
 
 - About Us Section
-    - The About us section
+    - The About us section shows knowligable information about the service.
+    - The section states in more detail what the site is and who is behind it.
+    - The section gives motivation to what the service aims to achieve.
+    - The section details that it makes a personalized product to make the potential customer feel special.
+
+<img src="assets/images/readme_images/about us.png">
