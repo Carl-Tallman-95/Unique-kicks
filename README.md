@@ -80,5 +80,13 @@ The site is designed to be compatible with sevral different screen sizes and is 
     - The gallery page features a zoom in effect when you hover over images to give the user a more interactive experience.
     - This gallery page is valuable to the user as they will be able to easily identify the types of styles the site is capable of making.
 
-<img src="assets/images/readme_images/full gallery.png">
+<img src="assets/images/readme_images/full gallery page.png">
 
+- The Contact Us Page
+    - The contact page features a form where the user can enter their information for a style request to be sent.
+    - The contact page encourages the users to detail out the style they want for the service to work properly.
+    - The contact page is valuable to the user as it gives them flexability over what they want the service to provide.
+
+    <img src="assets/images/readme_images/contact page.png">
+
+    
