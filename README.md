@@ -12,6 +12,6 @@ https://codeinstitute.net
 
 ### h3
 
-<img src="assets/images/Shutterstock/shutterstock_1758820598.jpg" alt="woman painting white sneakers" style="width:500px; display:flex;">
+<img src="assets/images/Shutterstock/shutterstock_1758820598.jpg" alt="woman painting white sneakers" style="width:100%;">
 
 paragraph
