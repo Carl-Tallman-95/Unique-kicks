@@ -37,4 +37,20 @@ The site is designed to be compatible with sevral different screen sizes and is 
 
 <img src="assets/images/readme_images/nav.png">
 
-- efsd
+- The Header Image And Text Box
+    - The heading has a image as a background with a text floating on it’s left side to contrast the navigation bar.
+    - The image is darkened down to help the text stand out.
+    -  Under the text there is a clickable button linked to the contact page.
+    - The section is clear about what the service is and who it is for.
+
+<img src="assets/images/readme_images/text box.png">
+
+- How Does it Work Section
+    - The section helps the user to understand the steps to take for a customized pair of shoes to be ordered.
+    - The steps gives a clear guide to the user in order to understand the ease of use for the site.
+    - The steps are easily readable with a plesant design.
+
+<img src="assets/images/readme_images/how does it work.png">
+
+- Check Out Our Gallery Section
+    - a
