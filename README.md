@@ -53,4 +53,11 @@ The site is designed to be compatible with sevral different screen sizes and is 
 <img src="assets/images/readme_images/how does it work.png">
 
 - Check Out Our Gallery Section
-    - a
+    - This section will allow the user to get a get a glimpse into what the product is or could be.
+    - The "HERE"button is linked to the full gallery page which is also accessible by the navigation bar.
+    - The images featured are relevant and clearly show the user what kind of product they can expect from the service.
+
+<img src="assets/images/readme_images/check out our gallery.png">
+
+- About Us Section
+    - The About us section
