@@ -388,7 +388,7 @@ footer {
     padding-bottom: 8%;
 }
 
-#photos {
+.photos {
     clear: both;
     line-height: 0;
     column-count: 3;
@@ -397,16 +397,26 @@ footer {
     border: 50px solid #fff;
 }
 
-#photos > img {
+.photos > img {
     width: 100%;
     transition: 1s;
 
 }
 
-#photos > img:hover {
+.photos > img:hover {
     transform: scale(1.2);
     z-index: 2;
 }
+
+/* Gallery page queries */
+    
+    /* For small screen sizes 800px and down */
+    @media screen and (max-width: 800px) {
+        .photos {
+            column-count: 2;
+        }
+    
+    }
 
 /* contact page */
 
@@ -426,7 +436,7 @@ footer {
     border: 3px solid #111;
 }
 
-.contact-container h1 {
+.contact-container h2 {
     font-family: 'Oswald', sans-serif;
     color: #fff;
     letter-spacing: 2px;
@@ -446,6 +456,7 @@ footer {
 .contact-content h2 {
     font-family: 'Oswald', sans-serif;
     letter-spacing: 1px;
+    margin: 0;
 }
 
 
@@ -468,34 +479,20 @@ footer {
     transition: 0.5s;
 }
 
+/* Media queries */
 
+@media screen and (max-width: 400px) {
 
-
+.contact-content {
+    padding: 12px;
+}
+}
 
 /* contact page */
 
 /* Media queries */
 
 
-/* Gallery page queries */
-
-@media screen and (max-width: 950px) {
-    
-
-#photos {
-    column-count: 3;
-}
-
-
-}
-
-/* For small screen sizes 800px and down */
-@media screen and (max-width: 800px) {
-    #photos {
-        column-count: 2;
-    }
-
-}
 
 
 /* about medium screen sizes from 900px wide and down */
