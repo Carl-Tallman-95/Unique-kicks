@@ -13,7 +13,7 @@ body {
     color: #3a3a3a;
 }
 
-/* headings and logo 2 */
+/* header retry */
 
 #header {
     min-height: 60vh;
@@ -99,7 +99,7 @@ nav img {
     transition: 0.5s;
 }
 
-/* nav medium screen sizes from 650px wide and down */
+/* nav screen sizes from 650px wide and down */
 
 @media screen and (max-width: 650px){
     nav {
@@ -123,7 +123,7 @@ nav img {
         font-size: 25px;
     }
 }
-/* Landing page image medium screen sizes from 450px wide and down */
+/* Landing page image screen sizes from 450px wide and down */
 
 @media screen and (max-width: 450px){
 
@@ -206,6 +206,7 @@ nav img {
     color: #fff;
     border: 1px solid ;
     padding: 12px 34px;
+    margin-top: 16px;
     font-size: 13px;
     background: transparent;
     position: relative;
@@ -380,7 +381,7 @@ footer {
 }
 /* Gallery page queries */
     
-    /* For small screen sizes 800px and down */
+    /* For screen sizes 800px and down */
     @media screen and (max-width: 800px) {
         .photos {
             column-count: 2;
@@ -460,7 +461,7 @@ footer {
 
 /* Media queries */
 
-/* about medium screen sizes from 900px wide and down */
+/* For screen sizes from 900px wide and down */
 
 @media screen and (max-width: 900px){
 
