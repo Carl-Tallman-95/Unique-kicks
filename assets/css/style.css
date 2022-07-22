@@ -13,7 +13,7 @@ body {
     color: #3a3a3a;
 }
 
-/* header retry */
+/* header */
 
 #header {
     min-height: 60vh;
@@ -123,7 +123,7 @@ nav img {
         font-size: 25px;
     }
 }
-/* Landing page image screen sizes from 450px wide and down */
+/* header screen sizes from 450px wide and down */
 
 @media screen and (max-width: 450px){
 
@@ -131,9 +131,8 @@ nav img {
         min-width: 50vh;
     }
 }
-/*  */
 
-/* how does it work retry */
+/* how does it work */
 .how-does-work-bg {
     background-color: #fff;
     width: 100%;
@@ -180,7 +179,6 @@ nav img {
     padding: 35px;
     margin: 20px;
 }
-/*  */
 
 /* check out our gallery */
 #check-gallery {
@@ -237,7 +235,6 @@ nav img {
 .gallery-images-box {
     padding: 10px;
 }
-/*  */
 
 /* about us */
 #about-us-section-bg {
@@ -283,9 +280,8 @@ nav img {
     font-weight: 700;
     font-size: 13px;
 }
-/* about us */
 
-/* footer-section */
+/* footer */
 footer {
     background: #222222;
     width: 100%;
@@ -351,7 +347,6 @@ footer {
     font-size: 14px;
     text-transform: uppercase;
 }
-/*  */
 
 /* gallery */
 #gallery-page {
@@ -379,18 +374,16 @@ footer {
     transform: scale(1.2);
     z-index: 2;
 }
-/* Gallery page queries */
     
-    /* For screen sizes 800px and down */
-    @media screen and (max-width: 800px) {
+/* gallery screen sizes 800px and down */
+@media screen and (max-width: 800px) {
         .photos {
             column-count: 2;
         }
     
     }
-/*  */
 
-/* contact page */
+/* contact */
 .contact-bg {
     background: #f8594e;
     padding: 20px;
@@ -449,7 +442,7 @@ footer {
     padding: 10px;
     transition: 0.5s;
 }
-/* Media queries */
+/* contact screen sizes 400px and down */
 
 @media screen and (max-width: 400px) {
 
@@ -457,11 +450,7 @@ footer {
     padding: 12px;
 }
 }
-/*  */
-
-/* Media queries */
-
-/* For screen sizes from 900px wide and down */
+/* description screen sizes from 900px wide and down */
 
 @media screen and (max-width: 900px){
 
