@@ -67,3 +67,18 @@ The site is designed to be compatible with sevral different screen sizes and is 
     - The section details that it makes a personalized product to make the potential customer feel special.
 
 <img src="assets/images/readme_images/about us.png">
+
+- The Footer
+    - The footer includes links to the relevant social media sites for facebook, twitter, youtube and instagram. When clicked, the links will open in a new tab for easy navigation for the user.
+    - The footer encourages users of the site to stay connected with the site via social media.
+
+<img src="assets/images/readme_images/footer.png">
+
+- The Gallery Page
+    - The gallery will provide the user with a larger collection of images to see what the customized footwear could potentially look like.
+    - The gallery page icludes relevant pictures of customized and style footwear that the user can be assured the site can provide.
+    - The gallery page features a zoom in effect when you hover over images to give the user a more interactive experience.
+    - This gallery page is valuable to the user as they will be able to easily identify the types of styles the site is capable of making.
+
+<img src="assets/images/readme_images/full gallery.png">
+
