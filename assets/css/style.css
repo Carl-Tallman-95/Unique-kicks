@@ -15,7 +15,7 @@ body {
 
 /* headings and logo 2 */
 
-.header {
+#header {
     min-height: 60vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.3), rgba(4,9,30,0.3)), url(../images/shutterstock_512963239.jpg);
@@ -109,7 +109,7 @@ nav img {
         margin-right: 120px;
         margin-bottom: 25px;
         line-height: 20px;
-        float: right;
+        float: left;
     }
 
     nav img {
@@ -127,16 +127,13 @@ nav img {
 
 @media screen and (max-width: 450px){
 
-    .header {
+    #header {
         min-width: 50vh;
     }
 }
-
-
-/* headings and logo 2 */
+/*  */
 
 /* how does it work retry */
-
 .how-does-work-bg {
     background-color: #fff;
     width: 100%;
@@ -183,26 +180,9 @@ nav img {
     padding: 35px;
     margin: 20px;
 }
-
-/* how does it work medium screen sizes from 650px wide and down */
-
-@media screen and (max-width: 650px){
-    .how-does-work-boxes {
-        width: 100%;
-        height: auto;
-    }
-}
-
-
-/* how does it work retry */
-
-
-
-
 /*  */
 
 /* check out our gallery */
-
 #check-gallery {
     background: #f8594e;
     padding-bottom: 35px;
@@ -256,13 +236,9 @@ nav img {
 .gallery-images-box {
     padding: 10px;
 }
-
-
-
-/* check out our gallery */
+/*  */
 
 /* about us */
-
 #about-us-section-bg {
     display: flex;
     align-items: center;
@@ -306,11 +282,9 @@ nav img {
     font-weight: 700;
     font-size: 13px;
 }
-
 /* about us */
 
 /* footer-section */
-
 footer {
     background: #222222;
     width: 100%;
@@ -376,12 +350,9 @@ footer {
     font-size: 14px;
     text-transform: uppercase;
 }
-
-
 /*  */
 
 /* gallery */
-
 #gallery-page {
     background: #f8594e;
     padding-top: 5%;
@@ -407,7 +378,6 @@ footer {
     transform: scale(1.2);
     z-index: 2;
 }
-
 /* Gallery page queries */
     
     /* For small screen sizes 800px and down */
@@ -417,9 +387,9 @@ footer {
         }
     
     }
+/*  */
 
 /* contact page */
-
 .contact-bg {
     background: #f8594e;
     padding: 20px;
@@ -478,7 +448,6 @@ footer {
     padding: 10px;
     transition: 0.5s;
 }
-
 /* Media queries */
 
 @media screen and (max-width: 400px) {
@@ -487,13 +456,9 @@ footer {
     padding: 12px;
 }
 }
-
-/* contact page */
+/*  */
 
 /* Media queries */
-
-
-
 
 /* about medium screen sizes from 900px wide and down */
 
