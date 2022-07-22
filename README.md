@@ -35,7 +35,8 @@ The site is designed to be compatible with sevral different screen sizes and is 
     - At any page you can click on the Logo that is linked to get to the Home page.
     - The navigation is easy to understand and tells the user where each section goes.
 
-<img src="assets/images/readme_images/nav.png">
+
+![This is an image](assets/images/readme_images/nav.png)
 
 - The Header Image And Text Box
     - The heading has a image as a background with a text floating on it’s left side to contrast the navigation bar.
@@ -57,7 +58,7 @@ The site is designed to be compatible with sevral different screen sizes and is 
     - The "HERE"button is linked to the full gallery page which is also accessible by the navigation bar.
     - The images featured are relevant and clearly show the user what kind of product they can expect from the service.
 
-<img src="assets/images/readme_images/check out our gallery.png">
+(<img src="assets/images/readme_images/check out our gallery.png">
 
 - About Us Section
     - The About us section
