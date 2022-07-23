@@ -103,8 +103,8 @@ The site is designed to be compatible with sevral different screen sizes and is 
 
 ## Bugs
 **Solved bugs**
- 1. - I used a div with a linear-gradient to overlay my background image, but the overlay would block the nav-bar from being clickable.
-    - I solved the issue by removing the div and used the linear-gradient inside background-image property
+ 1. - To make the header background image darker I used a div with a linear-gradient to overlay the image, but the overlay would block the nav-bar from being clickable.
+    - I solved the issue by removing the div and then used the linear-gradient inside background-image div property.
  ```
  background-image: linear-gradient(rgba(4,9,30,0.3), rgba(4,9,30,0.3)),
  ```
@@ -146,9 +146,18 @@ grid-template-columns: repeat(auto-fit, minmax(px, fr));
 
 ## Credits
 **Content**
-- sdsfds
+- The code to make the header background image was taken from [this youtube tutorial](https://www.youtube.com/watch?v=oYRda7UtuhA&t=2790s).
+- Instructions on how to implement
 - The icons used in the "how does it work?" section and the footer were taken taken from [Font Awesome](https://fontawesome.com/)
 
+- The code to make the social media links was taken from the CI [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/) Project.
+
+- Instructions on how to implement the form correctly on the Sign Up page was taken from the CI [Form Inputs](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/643317b091da4eef98fe9e0812a71715/) lesson
+
+>A special thanks to all of the resources that helped this project on the way to be what it is today!
+
 **Media**
-- sfsdfs
-- The header background image was taken from [Shutterstock](https://www.shutterstock.com/)
+- The header background image was taken from [Shutterstock](https://www.shutterstock.com/).
+- The images used in the "check out our gallery" section was taken from [Shutterstock](https://www.shutterstock.com/).
+- The about us background image was taken from [Unsplash](https://unsplash.com/)
+- The images used in the gallery page was taken from both [Unsplash](https://unsplash.com/) and [Shutterstock](https://www.shutterstock.com/).
