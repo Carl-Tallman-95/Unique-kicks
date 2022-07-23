@@ -147,12 +147,20 @@ grid-template-columns: repeat(auto-fit, minmax(px, fr));
 ## Credits
 **Content**
 - The code to make the header background image was taken from [this youtube tutorial](https://www.youtube.com/watch?v=oYRda7UtuhA&t=2790s).
-- Instructions on how to implement
+- The code to make the "Customize Now" button was taken from [W3Schools](https://www.w3schools.com/css/css3_buttons.asp).
 - The icons used in the "how does it work?" section and the footer were taken taken from [Font Awesome](https://fontawesome.com/)
+- Instructions on how to implement a responsive gallery in the "check out our gallery" section was taken from [this youtube tutorial](https://www.youtube.com/watch?v=wmeJMOxyD-w)
+    - Specifically this code property:
+    ```
+    grid-template-columns: repeat(auto-fit, minmax(px, fr));
+    ```
 
 - The code to make the social media links was taken from the CI [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/) Project.
 
-- Instructions on how to implement the form correctly on the Sign Up page was taken from the CI [Form Inputs](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/643317b091da4eef98fe9e0812a71715/) lesson
+- The code to make the gallery page was taken from the CI [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/06b2421978a4470d844b06c7bf2c50a2/) Project.
+    - The code to make the images zoom when hover over was taken from [codepen.io](https://codepen.io/skcals/pen/WKpqmG).
+
+- Instructions on how to implement the form correctly on the Sign Up page was taken from the CI [Form Inputs](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/643317b091da4eef98fe9e0812a71715/).
 
 >A special thanks to all of the resources that helped this project on the way to be what it is today!
 
