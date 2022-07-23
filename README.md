@@ -91,4 +91,36 @@ The site is designed to be compatible with sevral different screen sizes and is 
 
 ![This is an image](assets/images/readme_images/contact_page.png)
 
+**Features Left to Implement**
+- I would have liked to add uppload button to the contact page. So the user can upload their references more easily. It would also be usefull if the user has a unique design that they've made.
+
+## Testing
+
+- I have tested this project site on different web browsers. Google Chrome, Microsoft Edge and Mozilla Firefox have all been tested and are working.
+- Tests while using the site on a Samsung smartphone is also working.
+- I have confirmed that the site is looking good and is responsive on different screen sizes by using the devtools device toolbar.
+- I have confirmed that the form requires writen entries in every field and is working as intended. The email field will only accept an email and the submit button will send the data to the [formdump](https://formdump.codeinstitute.net/) site.
+
+## Bugs
+**Solved bugs**
+ 1. - I used a div with a linear-gradient to overlay my background image, but the overlay would block the nav-bar from being clickable.
+    - I solved the issue by removing the div and used the linear-gradient inside background-image property
+ ```
+ background-image: linear-gradient(rgba(4,9,30,0.3), rgba(4,9,30,0.3)),
+ ```
+ 2. - The images in the "check out our gallery" wasn't responsive when the screen size shrunk when I used the column-count property.
+    - It was solved by using the grid-template-columns property.
+ ```
+grid-template-columns: repeat(auto-fit, minmax(px, fr));
+ ```
+
+**Unfixed bugs**
+- On contact page, the description is responsive but not when you start to expand the text field area. I used a media query to change the size of the description but that stopped working when the text area was alterd. 
+```
+@media screen and (max-width: 900px){
+.your-description textarea {
+    width: 90%;}
+}
+```
+
 ## h2
