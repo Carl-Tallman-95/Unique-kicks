@@ -139,7 +139,16 @@ grid-template-columns: repeat(auto-fit, minmax(px, fr));
 
     ![This is an image](assets/images/readme_images/lighthouse_contact_page.png)
 
-    ## Deployment
+## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
     - dfsdfs
+
+## Credits
+**Content**
+- sdsfds
+- The icons used in the "how does it work?" section and the footer were taken taken from [Font Awesome](https://fontawesome.com/)
+
+**Media**
+- sfsdfs
+- The header background image was taken from [Shutterstock](https://www.shutterstock.com/)
