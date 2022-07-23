@@ -1,23 +1,3 @@
-# My Website
-
-**Bold Text**
-
-paragraph text
-
-https://codeinstitute.net
-
-[Code Institute](https://codeinstitute.net)
-
-## h2
-
-### h3
-
-- dot
-
-- another dot
-
-
-paragraph
 
 # UNIQUE-KICKS
 
