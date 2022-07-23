@@ -126,7 +126,7 @@ grid-template-columns: repeat(auto-fit, minmax(px, fr));
 - The website was deployed using GitHub pages. To deploy you will need to:
     - Navigate to the GitHub repository, then navigate to the Settings tab.
     - Select the ***Pages***  tab on the left-hand menu.
-    - Under the source section drop-down menu, select 'Master' branch and save. It should look similar to this:
+    - Under the source section drop-down menu, select "Main" branch and save. It should look similar to this:
     ![This is an image](assets/images/readme_images/deployment.png)
 
 The Live link can be found here - [UNIQUE-KICKS](https://carl-tallman-95.github.io/Unique-kicks/)
