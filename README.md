@@ -121,8 +121,33 @@ grid-template-columns: repeat(auto-fit, minmax(px, fr));
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows:
-    - dfsdfs
+
+### GitHub pages deployment
+- The website was deployed using GitHub pages. To deploy you will need to:
+    - Navigate to the GitHub repository, then navigate to the Settings tab.
+    - Select the ***Pages***  tab on the left-hand menu.
+    - Under the source section drop-down menu, select 'Master' branch and save. It should look similar to this:
+    ![This is an image](assets/images/readme_images/deployment.png)
+
+The Live link can be found here - [UNIQUE-KICKS](https://carl-tallman-95.github.io/Unique-kicks/)
+
+ ### Creating a Clone
+- To run this project locally you will need to:
+    
+    - Install the GitPod Browser Extension for the Google Chrome browser.
+
+    - After you have installed the extension, you can restart the browser and log into GitHub.
+    - First locate the GitHub Repository, then  click the green GitPod button in the top of the repository. A new GitPod workspace will be created from the code in github where you can work locally.
+
+- To the project within a local IDE you will need to:
+    - Log into GitHub and locate the GitHub repository.
+    - Click "Clone or download" below the repository name.
+    - In the Clone with HTTPs section, copy the repository clone URL.
+    - Open the terminal in your in your local IDE.
+    - Alter the working directory location to where you want the cloned directory to be made.
+    - Enter "git clone", then just paste the URL you copied from the clone repository.
+    - Press Enter and your local clone should be created.
+
 
 ## Credits
 **Content**
@@ -143,6 +168,8 @@ grid-template-columns: repeat(auto-fit, minmax(px, fr));
 - Instructions on how to implement the form correctly on the Sign Up page was taken from the CI [Form Inputs](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/643317b091da4eef98fe9e0812a71715/).
 
 >A special thanks to all of the resources that helped this project on the way to be what it is today!
+
+- Thanks to [Emmacharleswilson](https://github.com/Emmacharleswilson) on how to create a clone in her [README.md](https://github.com/Emmacharleswilson/Discover3c#readme)!
 
 **Media**
 - The header background image was taken from [Shutterstock](https://www.shutterstock.com/).
