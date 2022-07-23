@@ -130,4 +130,16 @@ grid-template-columns: repeat(auto-fit, minmax(px, fr));
 - CSS
     - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcarl-tallman-95.github.io%2FUnique-kicks%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
-    ## h2
+- Accessibility
+    - I have confirmed that the colors and fonts chosen for this project are easy to read and are accessible by using the lighthouse in devtools.
+
+    ![This is an image](assets/images/readme_images/lighthouse.png)
+
+    ![This is an image](assets/images/readme_images/lighthouse_gallery_page.png)
+
+    ![This is an image](assets/images/readme_images/lighthouse_contact_page.png)
+
+    ## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+    - dfsdfs
