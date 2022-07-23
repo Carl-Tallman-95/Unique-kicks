@@ -18,7 +18,7 @@ body {
 #header {
     min-height: 60vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.3), rgba(4,9,30,0.3)), url(../images/shutterstock_512963239.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.3), rgba(4,9,30,0.3)), url(../images/painted_canvas_shoes.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -245,7 +245,7 @@ nav img {
 }
 
 .about-section {
-    background: linear-gradient(rgba(4,9,30,0.2), rgba(4,9,30,0.2)), url(../images/markus-spiske-cn0-hgcpoL8-unsplash_3.png) no-repeat left;
+    background: linear-gradient(rgba(4,9,30,0.2), rgba(4,9,30,0.2)), url(../images/unsplash_painting.png) no-repeat left;
     background-size: cover;
     background-color: #fff;
     display: flex;
