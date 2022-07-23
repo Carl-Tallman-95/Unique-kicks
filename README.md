@@ -1,7 +1,7 @@
 
 # UNIQUE-KICKS
 
-This is the website for ”unique-kicks”. It is a website that offers customizing services for footwear.
+This is the website for ”UNIQUE-KICKS”. It is a website that offers customizing services for footwear.
 With simple steps and a simple design you will have an easy time navigating through our pages and hopefully get inspired as well.
 Unique-kicks will be useful for anyone who wants their shoes to have a makeover.
 The site is designed to be compatible with several different screen sizes and is easy to navigate for anyone.
@@ -106,9 +106,9 @@ grid-template-columns: repeat(auto-fit, minmax(px, fr));
 ## Validator Testing
 
 - HTML
-    - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcarl-tallman-95.github.io%2FUnique-kicks%2F)
+    - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcarl-tallman-95.github.io%2FUnique-kicks%2F).
 - CSS
-    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcarl-tallman-95.github.io%2FUnique-kicks%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+    - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcarl-tallman-95.github.io%2FUnique-kicks%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv).
 
 - Accessibility
     - I have confirmed that the colors and fonts chosen for this project are easy to read and are accessible by using the lighthouse in devtools.
@@ -153,26 +153,29 @@ The Live link can be found here - [UNIQUE-KICKS](https://carl-tallman-95.github.
 **Content**
 - The code to make the header background image was taken from [this youtube tutorial](https://www.youtube.com/watch?v=oYRda7UtuhA&t=2790s).
 - The code to make the "Customize Now" button was taken from [W3Schools](https://www.w3schools.com/css/css3_buttons.asp).
-- The icons used in the "how does it work?" section and the footer were taken taken from [Font Awesome](https://fontawesome.com/)
-- Instructions on how to implement a responsive gallery in the "check out our gallery" section was taken from [this youtube tutorial](https://www.youtube.com/watch?v=wmeJMOxyD-w)
+- The icons used in the "how does it work?" section and the footer were taken taken from [Font Awesome](https://fontawesome.com/).
+- The code to used on the flex div boxes was taken from [css-tricks.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+- Instructions on how to implement a responsive gallery in the "check out our gallery" section was taken from [this youtube tutorial](https://www.youtube.com/watch?v=wmeJMOxyD-w).
     - Specifically this code property:
     ```
     grid-template-columns: repeat(auto-fit, minmax(px, fr));
     ```
 
-- The code to make the social media links was taken from the CI [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/) Project.
+- The code used to make the social media links was taken from the CI [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/) Project.
 
-- The code to make the gallery page was taken from the CI [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/06b2421978a4470d844b06c7bf2c50a2/) Project.
+- The code used to make the gallery page was taken from the CI [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/06b2421978a4470d844b06c7bf2c50a2/) Project.
     - The code to make the images zoom when hover over was taken from [codepen.io](https://codepen.io/skcals/pen/WKpqmG).
 
 - Instructions on how to implement the form correctly on the Sign Up page was taken from the CI [Form Inputs](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/643317b091da4eef98fe9e0812a71715/).
+- The code to make the description was taken from [stackoverflow.com](https://stackoverflow.com/questions/30738205/set-text-field-cursor-to-top).
 
 >A special thanks to all of the resources that helped this project on the way to be what it is today!
 
 - Thanks to [Emmacharleswilson](https://github.com/Emmacharleswilson) on how to create a clone in her [README.md](https://github.com/Emmacharleswilson/Discover3c#readme)!
 
 **Media**
+- The fonts used (Bebas Neue, Oswald and Roboto) was taken from [Google Fonts](https://fonts.google.com/).
 - The header background image was taken from [Shutterstock](https://www.shutterstock.com/).
 - The images used in the "check out our gallery" section was taken from [Shutterstock](https://www.shutterstock.com/).
-- The about us background image was taken from [Unsplash](https://unsplash.com/)
+- The about us background image was taken from [Unsplash](https://unsplash.com/).
 - The images used in the gallery page was taken from both [Unsplash](https://unsplash.com/) and [Shutterstock](https://www.shutterstock.com/).
